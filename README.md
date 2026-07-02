@@ -69,6 +69,7 @@ Running the Project
 Clone the repository:
 
 git clone https://github.com/AnthonnyKS0r/Credit-Card-Fraud-Analysis.git
+
 cd Credit-Card-Fraud-Analysis
 
 Install the required libraries:
